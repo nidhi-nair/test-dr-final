@@ -43,10 +43,6 @@
       "isDefault": false
     },
     {
-      "id": "firstore",
-      "isDefault": false
-    },
-    {
       "id": "snowflake",
       "isDefault": true
     },
