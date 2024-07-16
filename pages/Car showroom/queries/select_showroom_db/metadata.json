@@ -27,7 +27,7 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "select_showroom_db",
     "pageId": "Car showroom",
     "userSetOnLoad": false
