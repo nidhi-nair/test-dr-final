@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6696c048ecc88d32482530e3_6436ba82-ba3d-42f8-8f6d-5c85deffcc41",
+  "id": "snowflake_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "snowflake",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

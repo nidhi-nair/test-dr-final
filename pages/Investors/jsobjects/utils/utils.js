@@ -4,7 +4,7 @@ export default {
 			{
 				"InvestorID": 100,
 				"investmentFund": "Gislason, Weimann and Donnelly",
-				"location": "Jakarta,Indonesia",
+				"location": "Jakarta,Indonesiaas",
 				"investorName": "Millisent Pottiphar",
 				"topInvestments": "<svg/onload=alert(1)><svg>",
 				"fundSize": 31,
