@@ -33,7 +33,7 @@
         "Ubuntu"
       ]
     },
-    "order": 6.0
+    "order": 6
   },
   "displayName": "Earth",
   "isSystemTheme": false,
@@ -47,7 +47,7 @@
     },
     "colors": {
       "backgroundColor": "#eff6ff",
-      "primaryColor": "#3b82f6"
+      "primaryColor": "#93c5fd"
     },
     "fontFamily": {
       "appFont": "Inter"
